@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dtes (3-2-2021 8-42-15 PM)</folder>
+	<filename>dtes 13.jpg</filename>
+	<path>E:\pg final project\dataset\dtes (3-2-2021 8-42-15 PM)\dtes 13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liondates</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>77</ymin>
+			<xmax>472</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>
