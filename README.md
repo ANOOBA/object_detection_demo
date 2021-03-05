@@ -1,2 +1,2 @@
 # retail
-retain product detection
+retail product detection
