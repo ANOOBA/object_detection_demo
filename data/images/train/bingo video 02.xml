@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bingo video (3-2-2021 8-42-59 PM)</folder>
+	<filename>bingo video 02.jpg</filename>
+	<path>E:\pg final project\dataset\bingo video (3-2-2021 8-42-59 PM)\bingo video 02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bingo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>128</ymin>
+			<xmax>427</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

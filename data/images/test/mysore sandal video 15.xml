@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mysore sandal video (3-2-2021 8-44-01 PM)</folder>
+	<filename>mysore sandal video 15.jpg</filename>
+	<path>E:\pg final project\dataset\mysore sandal video (3-2-2021 8-44-01 PM)\mysore sandal video 15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mysoresandalsoap</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>73</ymin>
+			<xmax>480</xmax>
+			<ymax>690</ymax>
+		</bndbox>
+	</object>
+</annotation>
