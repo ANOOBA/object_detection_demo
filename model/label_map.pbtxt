@@ -1,19 +1,24 @@
 item {
     id: 1
-    name: 'door'
+    name: 'bingo'
 }
 
 item {
     id: 2
-    name: 'room'
+    name: 'dtes'
 }
 
 item {
     id: 3
-    name: 'wall'
+    name: 'hershey'
 }
 
 item {
     id: 4
-    name: 'window'
+    name: 'mysore sandal'
+}
+
+item {
+    id: 5
+    name: 'pepsodent'
 }
